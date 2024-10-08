@@ -7,7 +7,7 @@ export const Footer = () => {
   }, []);
 
   return (
-    <footer className="bg-background py-6 text-darkAccent font-sans">
+    <footer className="bg-background py-6 pb-8 text-darkAccent font-sans">
       <div className="container mx-auto text-center">
         <div className="text-lg font-bold mb-4 text-primary font-serif footer-item lg:text-2xl">Follow Us</div>
         <div className="flex justify-center space-x-4">
